@@ -1,0 +1,13 @@
+*.doc
+*.docx
+*.spec
+*.txt
+*.pdf
+*.zip
+/images
+/.idea
+/__pycache__
+/build
+/dist
+/release
+/files
